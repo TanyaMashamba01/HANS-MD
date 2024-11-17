@@ -23,7 +23,7 @@
 <a href="https://github.com/Mrhanstz/HANS-MD"><img title="Watching" src="https://github.com/Mrhanstz/HANS-MD"></a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Mrhanstz}/count.svg" alt="Lucky_md :: Visitor's Count"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Mrhanstz}/count.svg" alt="Hans_md :: Visitor's Count"/></p>
 
 </a>
   <div align="center">
@@ -129,7 +129,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 The WhatsApp Bot 𝙃𝘼𝙉𝙎 𝙈𝘿 ✌️ made in Tanzania by hans tech
 
-  src="https://files.catbox.moe/l1i9o4.jpg">
+ 
 🌟 𝕋ℍ𝔸ℕ𝕂 FORK AND STAR HANS🍀_𝕄𝔻 🌟
 
 ## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ𝕊 :
