@@ -9,7 +9,7 @@
  
   [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
  <a href="https://chat.whatsapp.com/Ia4V8wnwCIjLYaVI3FVHb4">
- <img alt="𝙃𝘼𝙉𝙎 𝕄𝔻 𝕍1" height="300" src="https://files.catbox.moe/l1i9o4.jpg">
+ <img alt="𝙃𝘼𝙉𝙎 𝕄𝔻 𝕍1" height="300" src="https://i.top4top.io/p_3236rxa990.jpg">
  [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
   
 </h1> 
@@ -94,7 +94,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 
 **2. ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ ʜᴇʀᴏᴋᴜ**       
 <br>
-<a href="https://dashboard.heroku.com/new?template=https://github.com/Mrhannstz/HANS-MD/tree/main">
+<a href="https://dashboard.heroku.com/new?template=https://github.com/tanyaMashamba01/HANS-MD/tree/main">
  <img src="https://img.shields.io/badge/𝔻𝔼ℙ𝕃𝕆𝕐%20𝕋𝕆%20ℍ𝔼ℝ𝕆𝕂𝕌-Brue?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
 
 
