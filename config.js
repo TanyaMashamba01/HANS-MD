@@ -15164,26 +15164,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 const fs = require('fs-extra');
 const { Sequelize } = require('sequelize');
 if (fs.existsSync('config.env'))
@@ -15195,12 +15175,12 @@ const DATABASE_URL = process.env.DATABASE_URL === undefined
     : process.env.DATABASE_URL;
 module.exports = { session: process.env.SESSION_ID || '',
     PREFIXE: process.env.PREFIX || ".",
-    OWNER_NAME: process.env.OWNER_NAME || "Hans Tz",
-    NUMERO_OWNER : process.env.NUMERO_OWNER || " 255756530143,25592540143",              
-    AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "yes",
+    OWNER_NAME: process.env.OWNER_NAME || "Joshuamambo1jmzz",
+    NUMERO_OWNER : process.env.NUMERO_OWNER || " 263777756184",              
+    AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "no",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'no',
-    BOT : process.env.BOT_NAME || 'HANS_MD',
-    URL : process.env.BOT_MENU_LINKS || 'https://files.catbox.moe/huyw9t.jpg',
+    BOT : process.env.BOT_NAME || 'Joshuamambo1jmzz',
+    URL : process.env.BOT_MENU_LINKS || 'https://files.catbox.moe/tmtn0f.jpeg',
     MODE: process.env.PUBLIC_MODE || "yes",
     PM_PERMIT: process.env.PM_PERMIT || 'yes',
     HEROKU_APP_NAME : process.env.HEROKU_APP_NAME,
